@@ -1,6 +1,6 @@
 👋 Hi, I’m @khairnar Akshay  
 
-- 👀 I’m interested in **Backend Development | Python | Django | REST APIs | SQL | Fintech**
+- 👀 I’m interested in **Backend Development | Python | Django | REST APIs | SQL | Fintech BSE StAR MF API integration**
 - 🌱 I’m an **MCA Graduate (2025)** with hands-on industry experience
 - 🧑‍💻 I have experience working with **Python, Django, Django REST Framework, PostgreSQL, Redis, HTML, CSS**
 - ⚙️ Worked on **fintech backend systems** including **BSE StAR MF integration** and **stock advisory platforms**
