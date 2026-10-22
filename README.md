@@ -42,7 +42,3 @@
 ### 📜 Certifications
 - Agile Scrum Master (ASM)
 - Artificial Intelligence — C-DAC Pune
-
-<!---
-khairnarakshay/khairnarakshay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
